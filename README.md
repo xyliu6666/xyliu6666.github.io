@@ -1,1 +1,1 @@
-# Personal blog in Chinese
+# Personal blog
